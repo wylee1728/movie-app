@@ -7,6 +7,8 @@ import Navigation from "./components/Navigation";
 import "./App.css";
 
 function App() {
+  console.log('remote');
+  console.log('local');
   return (
     <HashRouter>
       <Navigation />
