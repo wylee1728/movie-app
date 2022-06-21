@@ -9,6 +9,7 @@ import "./App.css";
 function App() {
   console.log('remote');
   console.log('local');
+  console.log('add');
   return (
     <HashRouter>
       <Navigation />
